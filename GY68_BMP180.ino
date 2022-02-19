@@ -5,7 +5,7 @@
 
 SFE_BMP180 pressure;
 
-#define ALTITUDE 976.0 // Altitude of Elevation	976 (3,202 ft) in meters
+#define ALTITUDE 976.0 // in Tirupati Altitude of Elevation	at sealevel is 976 (3,202 ft) in meters
 
 void setup()
 {
